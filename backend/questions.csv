@@ -1,0 +1,45 @@
+Response,label
+How have you been feeling lately?,depressed
+Have you noticed any changes in your mood or emotions?,depressed
+Do you find it difficult to experience pleasure or enjoyment in activities you used to enjoy?,depressed
+Have you been feeling more sad or down than usual?,depressed
+Have you experienced changes in your appetite or weight recently?,depressed
+How have you been sleeping? Have you noticed any changes in your sleep patterns?,depressed
+"Do you often feel tired or lack energy, even after a full night's sleep?",depressed
+Have you been feeling more irritable or easily frustrated than usual?,depressed
+Do you find it hard to concentrate or make decisions?,depressed
+Have you experienced feelings of worthlessness or guilt?,depressed
+Have you had any thoughts of self-harm or suicide?,depressed
+How has your motivation been lately? Do you find it hard to start or complete tasks?,depressed
+Have you noticed any physical symptoms such as headaches or stomachaches that don't seem to have a medical cause?,depressed
+Do you feel socially withdrawn or isolated from others?,depressed
+How do you perceive your future? Do you feel hopeful or pessimistic?,depressed
+That's fantastic news!,happy
+I'm so happy for you!,happy
+Congratulations! You must be over the moon!,happy
+Your happiness is contagious!,happy
+I'm thrilled to hear that!,happy
+It's wonderful to see you smiling!,happy
+You deserve all the happiness in the world!,happy
+That's amazing! What's making you so happy?,happy
+Your positive energy is uplifting!,happy
+Cheers to your happiness! Let's celebrate!,happy
+I understand.,neutral
+Got it.,neutral
+Sure thing.,neutral
+Noted.,neutral
+Alright.,neutral
+I see.,neutral
+That makes sense.,neutral
+Interesting.,neutral
+Thanks for letting me know.,neutral
+I'll keep that in mind.,neutral
+No problem.,neutral
+I'm here to help.,neutral
+Let me know if you need anything else.,neutral
+Feel free to ask if you have any questions.,neutral
+Understood.,neutral
+That's good to know.,neutral
+That's fine.,neutral
+I'm listening.,neutral
+Appreciate the information.,neutral
